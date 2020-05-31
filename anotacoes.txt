@@ -1,0 +1,20 @@
+//Backend
+//iniciando projeto Node
+npm init
+//responsavel pela criação do servidor
+npm install express --save
+//responsavel pela conexão com o BD
+npm install knex --save
+
+//Frontend
+//iniciando um projeto react
+npm install -g create-react-app
+//criando o projeto
+create-react-app "nome da pasta"
+//responsavel pelos icons
+npm install react-icons
+//responsavel pela rota do react
+npm install react-router-dom
+
+//responsavel pela chamada da api e ter resposta
+npm install axios
